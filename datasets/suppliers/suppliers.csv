@@ -1,0 +1,6 @@
+supplier_id,code,name,contact_email,integration_type,status,reliability_score
+SUP-TSA-01,TSA,TravelSource A,connectivity@tsa-sim.io,REST_API,ACTIVE,94.5
+SUP-GSB-02,GSB,GlobalStay B,connectivity@gsb-sim.io,SFTP_CSV,ACTIVE,88.2
+SUP-HCC-03,HCC,HotelConnect C,connectivity@hcc-sim.io,REST_API,ACTIVE,96.8
+SUP-EWD-04,EWD,ExploreWorld D,connectivity@ewd-sim.io,REST_API,ACTIVE,89.1
+SUP-TNE-05,TNE,TripNetwork E,connectivity@tne-sim.io,REST_API,ACTIVE,92.4

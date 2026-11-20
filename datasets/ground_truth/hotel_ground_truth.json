@@ -1,0 +1,6250 @@
+{
+  "total_records": 500,
+  "total_anchors": 115,
+  "matches": [
+    {
+      "record_a": "HTL-TSA-01001",
+      "record_b": "HTL-HCC-01002",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-001",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01001",
+      "record_b": "HTL-EWD-01003",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-001",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01001",
+      "record_b": "HTL-TNE-01004",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-001",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01001",
+      "record_b": "HTL-GSB-01005",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-001",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01002",
+      "record_b": "HTL-EWD-01003",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-001",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01002",
+      "record_b": "HTL-TNE-01004",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-001",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01002",
+      "record_b": "HTL-GSB-01005",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-001",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01003",
+      "record_b": "HTL-TNE-01004",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-001",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01003",
+      "record_b": "HTL-GSB-01005",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-001",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01004",
+      "record_b": "HTL-GSB-01005",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-001",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01006",
+      "record_b": "HTL-TNE-01007",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-002",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01006",
+      "record_b": "HTL-TSA-01008",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-002",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01006",
+      "record_b": "HTL-HCC-01009",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-002",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01006",
+      "record_b": "HTL-EWD-01010",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-002",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01007",
+      "record_b": "HTL-TSA-01008",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-002",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01007",
+      "record_b": "HTL-HCC-01009",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-002",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01007",
+      "record_b": "HTL-EWD-01010",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-002",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01008",
+      "record_b": "HTL-HCC-01009",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-002",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01008",
+      "record_b": "HTL-EWD-01010",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-002",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01009",
+      "record_b": "HTL-EWD-01010",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-002",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01011",
+      "record_b": "HTL-GSB-01012",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-003",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01011",
+      "record_b": "HTL-TSA-01013",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-003",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01011",
+      "record_b": "HTL-TNE-01014",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-003",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01012",
+      "record_b": "HTL-TSA-01013",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-003",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01012",
+      "record_b": "HTL-TNE-01014",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-003",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01013",
+      "record_b": "HTL-TNE-01014",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-003",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01015",
+      "record_b": "HTL-TSA-01016",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-004",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01015",
+      "record_b": "HTL-EWD-01017",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-004",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01015",
+      "record_b": "HTL-HCC-01018",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-004",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01015",
+      "record_b": "HTL-GSB-01019",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-004",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01016",
+      "record_b": "HTL-EWD-01017",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-004",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01016",
+      "record_b": "HTL-HCC-01018",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-004",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01016",
+      "record_b": "HTL-GSB-01019",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-004",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01017",
+      "record_b": "HTL-HCC-01018",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-004",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01017",
+      "record_b": "HTL-GSB-01019",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-004",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01018",
+      "record_b": "HTL-GSB-01019",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-004",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01020",
+      "record_b": "HTL-GSB-01021",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-005",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01020",
+      "record_b": "HTL-EWD-01022",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-005",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01021",
+      "record_b": "HTL-EWD-01022",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-005",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01023",
+      "record_b": "HTL-HCC-01024",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-006",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01023",
+      "record_b": "HTL-GSB-01025",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-006",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01023",
+      "record_b": "HTL-TSA-01026",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-006",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01023",
+      "record_b": "HTL-TNE-01027",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-006",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01024",
+      "record_b": "HTL-GSB-01025",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-006",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01024",
+      "record_b": "HTL-TSA-01026",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-006",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01024",
+      "record_b": "HTL-TNE-01027",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-006",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01025",
+      "record_b": "HTL-TSA-01026",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-006",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01025",
+      "record_b": "HTL-TNE-01027",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-006",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01026",
+      "record_b": "HTL-TNE-01027",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-006",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01028",
+      "record_b": "HTL-HCC-01029",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-007",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01028",
+      "record_b": "HTL-GSB-01030",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-007",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01029",
+      "record_b": "HTL-GSB-01030",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-007",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01031",
+      "record_b": "HTL-GSB-01032",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-008",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01031",
+      "record_b": "HTL-TNE-01033",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-008",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01031",
+      "record_b": "HTL-EWD-01034",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-008",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01031",
+      "record_b": "HTL-HCC-01035",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-008",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01032",
+      "record_b": "HTL-TNE-01033",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-008",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01032",
+      "record_b": "HTL-EWD-01034",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-008",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01032",
+      "record_b": "HTL-HCC-01035",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-008",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01033",
+      "record_b": "HTL-EWD-01034",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-008",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01033",
+      "record_b": "HTL-HCC-01035",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-008",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01034",
+      "record_b": "HTL-HCC-01035",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-008",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01036",
+      "record_b": "HTL-EWD-01037",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-009",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01036",
+      "record_b": "HTL-GSB-01038",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-009",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01036",
+      "record_b": "HTL-TNE-01039",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-009",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01036",
+      "record_b": "HTL-HCC-01040",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-009",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01037",
+      "record_b": "HTL-GSB-01038",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-009",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01037",
+      "record_b": "HTL-TNE-01039",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-009",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01037",
+      "record_b": "HTL-HCC-01040",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-009",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01038",
+      "record_b": "HTL-TNE-01039",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-009",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01038",
+      "record_b": "HTL-HCC-01040",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-009",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01039",
+      "record_b": "HTL-HCC-01040",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-009",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01041",
+      "record_b": "HTL-TSA-01042",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-010",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01041",
+      "record_b": "HTL-TNE-01043",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-010",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01041",
+      "record_b": "HTL-GSB-01044",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-010",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01042",
+      "record_b": "HTL-TNE-01043",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-010",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01042",
+      "record_b": "HTL-GSB-01044",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-010",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01043",
+      "record_b": "HTL-GSB-01044",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-010",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01045",
+      "record_b": "HTL-EWD-01046",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-011",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01045",
+      "record_b": "HTL-GSB-01047",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-011",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01045",
+      "record_b": "HTL-TSA-01048",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-011",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01045",
+      "record_b": "HTL-TNE-01049",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-011",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01046",
+      "record_b": "HTL-GSB-01047",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-011",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01046",
+      "record_b": "HTL-TSA-01048",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-011",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01046",
+      "record_b": "HTL-TNE-01049",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-011",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01047",
+      "record_b": "HTL-TSA-01048",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-011",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01047",
+      "record_b": "HTL-TNE-01049",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-011",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01048",
+      "record_b": "HTL-TNE-01049",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-011",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01050",
+      "record_b": "HTL-TSA-01051",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-012",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01050",
+      "record_b": "HTL-GSB-01052",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-012",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01051",
+      "record_b": "HTL-GSB-01052",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-012",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01053",
+      "record_b": "HTL-TNE-01054",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-013",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01053",
+      "record_b": "HTL-TSA-01055",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-013",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01053",
+      "record_b": "HTL-GSB-01056",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-013",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01054",
+      "record_b": "HTL-TSA-01055",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-013",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01054",
+      "record_b": "HTL-GSB-01056",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-013",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01055",
+      "record_b": "HTL-GSB-01056",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-013",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01057",
+      "record_b": "HTL-TNE-01058",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-014",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01057",
+      "record_b": "HTL-GSB-01059",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-014",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01057",
+      "record_b": "HTL-HCC-01060",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-014",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01057",
+      "record_b": "HTL-EWD-01061",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-014",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01058",
+      "record_b": "HTL-GSB-01059",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-014",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01058",
+      "record_b": "HTL-HCC-01060",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-014",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01058",
+      "record_b": "HTL-EWD-01061",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-014",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01059",
+      "record_b": "HTL-HCC-01060",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-014",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01059",
+      "record_b": "HTL-EWD-01061",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-014",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01060",
+      "record_b": "HTL-EWD-01061",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-014",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01062",
+      "record_b": "HTL-HCC-01063",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-015",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01062",
+      "record_b": "HTL-EWD-01064",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-015",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01063",
+      "record_b": "HTL-EWD-01064",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-015",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01065",
+      "record_b": "HTL-EWD-01066",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-016",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01065",
+      "record_b": "HTL-HCC-01067",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-016",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01066",
+      "record_b": "HTL-HCC-01067",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-016",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01068",
+      "record_b": "HTL-TNE-01069",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-017",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01068",
+      "record_b": "HTL-HCC-01070",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-017",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01068",
+      "record_b": "HTL-TSA-01071",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-017",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01069",
+      "record_b": "HTL-HCC-01070",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-017",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01069",
+      "record_b": "HTL-TSA-01071",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-017",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01070",
+      "record_b": "HTL-TSA-01071",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-017",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01072",
+      "record_b": "HTL-TSA-01073",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-018",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01072",
+      "record_b": "HTL-GSB-01074",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-018",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01073",
+      "record_b": "HTL-GSB-01074",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-018",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01075",
+      "record_b": "HTL-TSA-01076",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-019",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01075",
+      "record_b": "HTL-GSB-01077",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-019",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01075",
+      "record_b": "HTL-TNE-01078",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-019",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01075",
+      "record_b": "HTL-EWD-01079",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-019",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01076",
+      "record_b": "HTL-GSB-01077",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-019",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01076",
+      "record_b": "HTL-TNE-01078",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-019",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01076",
+      "record_b": "HTL-EWD-01079",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-019",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01077",
+      "record_b": "HTL-TNE-01078",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-019",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01077",
+      "record_b": "HTL-EWD-01079",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-019",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01078",
+      "record_b": "HTL-EWD-01079",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-019",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01080",
+      "record_b": "HTL-TSA-01081",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-020",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01080",
+      "record_b": "HTL-TNE-01082",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-020",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01080",
+      "record_b": "HTL-EWD-01083",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-020",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01080",
+      "record_b": "HTL-HCC-01084",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-020",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01081",
+      "record_b": "HTL-TNE-01082",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-020",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01081",
+      "record_b": "HTL-EWD-01083",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-020",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01081",
+      "record_b": "HTL-HCC-01084",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-020",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01082",
+      "record_b": "HTL-EWD-01083",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-020",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01082",
+      "record_b": "HTL-HCC-01084",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-020",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01083",
+      "record_b": "HTL-HCC-01084",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-020",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01085",
+      "record_b": "HTL-TNE-01086",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-021",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01085",
+      "record_b": "HTL-TSA-01087",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-021",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01085",
+      "record_b": "HTL-EWD-01088",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-021",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01085",
+      "record_b": "HTL-HCC-01089",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-021",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01086",
+      "record_b": "HTL-TSA-01087",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-021",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01086",
+      "record_b": "HTL-EWD-01088",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-021",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01086",
+      "record_b": "HTL-HCC-01089",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-021",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01087",
+      "record_b": "HTL-EWD-01088",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-021",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01087",
+      "record_b": "HTL-HCC-01089",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-021",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01088",
+      "record_b": "HTL-HCC-01089",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-021",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01090",
+      "record_b": "HTL-TNE-01091",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-022",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01090",
+      "record_b": "HTL-GSB-01092",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-022",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01090",
+      "record_b": "HTL-TSA-01093",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-022",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01090",
+      "record_b": "HTL-EWD-01094",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-022",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01091",
+      "record_b": "HTL-GSB-01092",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-022",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01091",
+      "record_b": "HTL-TSA-01093",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-022",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01091",
+      "record_b": "HTL-EWD-01094",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-022",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01092",
+      "record_b": "HTL-TSA-01093",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-022",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01092",
+      "record_b": "HTL-EWD-01094",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-022",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01093",
+      "record_b": "HTL-EWD-01094",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-022",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01095",
+      "record_b": "HTL-HCC-01096",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-023",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01095",
+      "record_b": "HTL-TSA-01097",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-023",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01095",
+      "record_b": "HTL-EWD-01098",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-023",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01095",
+      "record_b": "HTL-TNE-01099",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-023",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01096",
+      "record_b": "HTL-TSA-01097",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-023",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01096",
+      "record_b": "HTL-EWD-01098",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-023",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01096",
+      "record_b": "HTL-TNE-01099",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-023",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01097",
+      "record_b": "HTL-EWD-01098",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-023",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01097",
+      "record_b": "HTL-TNE-01099",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-023",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01098",
+      "record_b": "HTL-TNE-01099",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-023",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01100",
+      "record_b": "HTL-TNE-01101",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-024",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01100",
+      "record_b": "HTL-GSB-01102",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-024",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01100",
+      "record_b": "HTL-HCC-01103",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-024",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01101",
+      "record_b": "HTL-GSB-01102",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-024",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01101",
+      "record_b": "HTL-HCC-01103",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-024",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01102",
+      "record_b": "HTL-HCC-01103",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-024",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01104",
+      "record_b": "HTL-HCC-01105",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-025",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01104",
+      "record_b": "HTL-EWD-01106",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-025",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01104",
+      "record_b": "HTL-GSB-01107",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-025",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01104",
+      "record_b": "HTL-TSA-01108",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-025",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01105",
+      "record_b": "HTL-EWD-01106",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-025",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01105",
+      "record_b": "HTL-GSB-01107",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-025",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01105",
+      "record_b": "HTL-TSA-01108",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-025",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01106",
+      "record_b": "HTL-GSB-01107",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-025",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01106",
+      "record_b": "HTL-TSA-01108",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-025",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01107",
+      "record_b": "HTL-TSA-01108",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-025",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01109",
+      "record_b": "HTL-GSB-01110",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-026",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01109",
+      "record_b": "HTL-EWD-01111",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-026",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01109",
+      "record_b": "HTL-TSA-01112",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-026",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01109",
+      "record_b": "HTL-TNE-01113",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-026",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01110",
+      "record_b": "HTL-EWD-01111",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-026",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01110",
+      "record_b": "HTL-TSA-01112",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-026",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01110",
+      "record_b": "HTL-TNE-01113",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-026",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01111",
+      "record_b": "HTL-TSA-01112",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-026",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01111",
+      "record_b": "HTL-TNE-01113",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-026",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01112",
+      "record_b": "HTL-TNE-01113",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-026",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01114",
+      "record_b": "HTL-GSB-01115",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-027",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01114",
+      "record_b": "HTL-TSA-01116",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-027",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01114",
+      "record_b": "HTL-EWD-01117",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-027",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01114",
+      "record_b": "HTL-TNE-01118",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-027",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01115",
+      "record_b": "HTL-TSA-01116",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-027",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01115",
+      "record_b": "HTL-EWD-01117",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-027",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01115",
+      "record_b": "HTL-TNE-01118",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-027",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01116",
+      "record_b": "HTL-EWD-01117",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-027",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01116",
+      "record_b": "HTL-TNE-01118",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-027",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01117",
+      "record_b": "HTL-TNE-01118",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-027",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01119",
+      "record_b": "HTL-EWD-01120",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-028",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01119",
+      "record_b": "HTL-GSB-01121",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-028",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01119",
+      "record_b": "HTL-TNE-01122",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-028",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01119",
+      "record_b": "HTL-HCC-01123",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-028",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01120",
+      "record_b": "HTL-GSB-01121",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-028",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01120",
+      "record_b": "HTL-TNE-01122",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-028",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01120",
+      "record_b": "HTL-HCC-01123",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-028",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01121",
+      "record_b": "HTL-TNE-01122",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-028",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01121",
+      "record_b": "HTL-HCC-01123",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-028",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01122",
+      "record_b": "HTL-HCC-01123",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-028",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01124",
+      "record_b": "HTL-TNE-01125",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-029",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01124",
+      "record_b": "HTL-EWD-01126",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-029",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01124",
+      "record_b": "HTL-HCC-01127",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-029",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01124",
+      "record_b": "HTL-TSA-01128",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-029",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01125",
+      "record_b": "HTL-EWD-01126",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-029",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01125",
+      "record_b": "HTL-HCC-01127",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-029",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01125",
+      "record_b": "HTL-TSA-01128",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-029",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01126",
+      "record_b": "HTL-HCC-01127",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-029",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01126",
+      "record_b": "HTL-TSA-01128",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-029",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01127",
+      "record_b": "HTL-TSA-01128",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-029",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01129",
+      "record_b": "HTL-TNE-01130",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-030",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01129",
+      "record_b": "HTL-TSA-01131",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-030",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01129",
+      "record_b": "HTL-GSB-01132",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-030",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01129",
+      "record_b": "HTL-HCC-01133",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-030",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01130",
+      "record_b": "HTL-TSA-01131",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-030",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01130",
+      "record_b": "HTL-GSB-01132",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-030",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01130",
+      "record_b": "HTL-HCC-01133",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-030",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01131",
+      "record_b": "HTL-GSB-01132",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-030",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01131",
+      "record_b": "HTL-HCC-01133",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-030",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01132",
+      "record_b": "HTL-HCC-01133",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-030",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01134",
+      "record_b": "HTL-EWD-01135",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-031",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01134",
+      "record_b": "HTL-TSA-01136",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-031",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01134",
+      "record_b": "HTL-GSB-01137",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-031",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01134",
+      "record_b": "HTL-TNE-01138",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-031",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01135",
+      "record_b": "HTL-TSA-01136",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-031",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01135",
+      "record_b": "HTL-GSB-01137",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-031",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01135",
+      "record_b": "HTL-TNE-01138",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-031",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01136",
+      "record_b": "HTL-GSB-01137",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-031",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01136",
+      "record_b": "HTL-TNE-01138",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-031",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01137",
+      "record_b": "HTL-TNE-01138",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-031",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01139",
+      "record_b": "HTL-EWD-01140",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-032",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01139",
+      "record_b": "HTL-GSB-01141",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-032",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01139",
+      "record_b": "HTL-TSA-01142",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-032",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01139",
+      "record_b": "HTL-HCC-01143",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-032",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01140",
+      "record_b": "HTL-GSB-01141",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-032",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01140",
+      "record_b": "HTL-TSA-01142",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-032",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01140",
+      "record_b": "HTL-HCC-01143",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-032",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01141",
+      "record_b": "HTL-TSA-01142",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-032",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01141",
+      "record_b": "HTL-HCC-01143",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-032",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01142",
+      "record_b": "HTL-HCC-01143",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-032",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01144",
+      "record_b": "HTL-GSB-01145",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-033",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01144",
+      "record_b": "HTL-EWD-01146",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-033",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01144",
+      "record_b": "HTL-HCC-01147",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-033",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01144",
+      "record_b": "HTL-TSA-01148",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-033",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01145",
+      "record_b": "HTL-EWD-01146",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-033",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01145",
+      "record_b": "HTL-HCC-01147",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-033",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01145",
+      "record_b": "HTL-TSA-01148",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-033",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01146",
+      "record_b": "HTL-HCC-01147",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-033",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01146",
+      "record_b": "HTL-TSA-01148",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-033",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01147",
+      "record_b": "HTL-TSA-01148",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-033",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01149",
+      "record_b": "HTL-TNE-01150",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-034",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01149",
+      "record_b": "HTL-GSB-01151",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-034",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01149",
+      "record_b": "HTL-EWD-01152",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-034",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01150",
+      "record_b": "HTL-GSB-01151",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-034",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01150",
+      "record_b": "HTL-EWD-01152",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-034",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01151",
+      "record_b": "HTL-EWD-01152",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-034",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01153",
+      "record_b": "HTL-EWD-01154",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-035",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01153",
+      "record_b": "HTL-TNE-01155",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-035",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01153",
+      "record_b": "HTL-GSB-01156",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-035",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01153",
+      "record_b": "HTL-TSA-01157",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-035",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01154",
+      "record_b": "HTL-TNE-01155",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-035",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01154",
+      "record_b": "HTL-GSB-01156",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-035",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01154",
+      "record_b": "HTL-TSA-01157",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-035",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01155",
+      "record_b": "HTL-GSB-01156",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-035",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01155",
+      "record_b": "HTL-TSA-01157",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-035",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01156",
+      "record_b": "HTL-TSA-01157",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-035",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01158",
+      "record_b": "HTL-GSB-01159",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-036",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01158",
+      "record_b": "HTL-EWD-01160",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-036",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01158",
+      "record_b": "HTL-TNE-01161",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-036",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01158",
+      "record_b": "HTL-HCC-01162",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-036",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01159",
+      "record_b": "HTL-EWD-01160",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-036",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01159",
+      "record_b": "HTL-TNE-01161",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-036",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01159",
+      "record_b": "HTL-HCC-01162",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-036",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01160",
+      "record_b": "HTL-TNE-01161",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-036",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01160",
+      "record_b": "HTL-HCC-01162",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-036",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01161",
+      "record_b": "HTL-HCC-01162",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-036",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01163",
+      "record_b": "HTL-HCC-01164",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-037",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01163",
+      "record_b": "HTL-TNE-01165",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-037",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01163",
+      "record_b": "HTL-TSA-01166",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-037",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01163",
+      "record_b": "HTL-GSB-01167",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-037",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01164",
+      "record_b": "HTL-TNE-01165",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-037",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01164",
+      "record_b": "HTL-TSA-01166",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-037",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01164",
+      "record_b": "HTL-GSB-01167",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-037",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01165",
+      "record_b": "HTL-TSA-01166",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-037",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01165",
+      "record_b": "HTL-GSB-01167",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-037",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01166",
+      "record_b": "HTL-GSB-01167",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-037",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01168",
+      "record_b": "HTL-EWD-01169",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-038",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01168",
+      "record_b": "HTL-GSB-01170",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-038",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01168",
+      "record_b": "HTL-HCC-01171",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-038",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01169",
+      "record_b": "HTL-GSB-01170",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-038",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01169",
+      "record_b": "HTL-HCC-01171",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-038",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01170",
+      "record_b": "HTL-HCC-01171",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-038",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01172",
+      "record_b": "HTL-HCC-01173",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-039",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01172",
+      "record_b": "HTL-GSB-01174",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-039",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01172",
+      "record_b": "HTL-TSA-01175",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-039",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01173",
+      "record_b": "HTL-GSB-01174",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-039",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01173",
+      "record_b": "HTL-TSA-01175",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-039",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01174",
+      "record_b": "HTL-TSA-01175",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-039",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01176",
+      "record_b": "HTL-TSA-01177",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-040",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01176",
+      "record_b": "HTL-HCC-01178",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-040",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01176",
+      "record_b": "HTL-TNE-01179",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-040",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01177",
+      "record_b": "HTL-HCC-01178",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-040",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01177",
+      "record_b": "HTL-TNE-01179",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-040",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01178",
+      "record_b": "HTL-TNE-01179",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-040",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01180",
+      "record_b": "HTL-EWD-01181",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-041",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01180",
+      "record_b": "HTL-HCC-01182",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-041",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01181",
+      "record_b": "HTL-HCC-01182",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-041",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01183",
+      "record_b": "HTL-GSB-01184",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-042",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01183",
+      "record_b": "HTL-TSA-01185",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-042",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01183",
+      "record_b": "HTL-TNE-01186",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-042",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01184",
+      "record_b": "HTL-TSA-01185",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-042",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01184",
+      "record_b": "HTL-TNE-01186",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-042",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01185",
+      "record_b": "HTL-TNE-01186",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-042",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01187",
+      "record_b": "HTL-EWD-01188",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-043",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01187",
+      "record_b": "HTL-TSA-01189",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-043",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01187",
+      "record_b": "HTL-HCC-01190",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-043",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01187",
+      "record_b": "HTL-GSB-01191",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-043",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01188",
+      "record_b": "HTL-TSA-01189",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-043",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01188",
+      "record_b": "HTL-HCC-01190",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-043",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01188",
+      "record_b": "HTL-GSB-01191",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-043",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01189",
+      "record_b": "HTL-HCC-01190",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-043",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01189",
+      "record_b": "HTL-GSB-01191",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-043",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01190",
+      "record_b": "HTL-GSB-01191",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-043",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01192",
+      "record_b": "HTL-GSB-01193",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-044",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01192",
+      "record_b": "HTL-TSA-01194",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-044",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01192",
+      "record_b": "HTL-EWD-01195",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-044",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01193",
+      "record_b": "HTL-TSA-01194",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-044",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01193",
+      "record_b": "HTL-EWD-01195",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-044",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01194",
+      "record_b": "HTL-EWD-01195",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-044",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01196",
+      "record_b": "HTL-TNE-01197",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-045",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01196",
+      "record_b": "HTL-EWD-01198",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-045",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01196",
+      "record_b": "HTL-GSB-01199",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-045",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01196",
+      "record_b": "HTL-HCC-01200",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-045",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01197",
+      "record_b": "HTL-EWD-01198",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-045",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01197",
+      "record_b": "HTL-GSB-01199",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-045",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01197",
+      "record_b": "HTL-HCC-01200",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-045",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01198",
+      "record_b": "HTL-GSB-01199",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-045",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01198",
+      "record_b": "HTL-HCC-01200",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-045",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01199",
+      "record_b": "HTL-HCC-01200",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-045",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01201",
+      "record_b": "HTL-HCC-01202",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-046",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01201",
+      "record_b": "HTL-TSA-01203",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-046",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01201",
+      "record_b": "HTL-GSB-01204",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-046",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01201",
+      "record_b": "HTL-TNE-01205",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-046",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01202",
+      "record_b": "HTL-TSA-01203",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-046",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01202",
+      "record_b": "HTL-GSB-01204",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-046",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01202",
+      "record_b": "HTL-TNE-01205",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-046",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01203",
+      "record_b": "HTL-GSB-01204",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-046",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01203",
+      "record_b": "HTL-TNE-01205",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-046",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01204",
+      "record_b": "HTL-TNE-01205",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-046",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01206",
+      "record_b": "HTL-EWD-01207",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-047",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01206",
+      "record_b": "HTL-TSA-01208",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-047",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01206",
+      "record_b": "HTL-HCC-01209",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-047",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01206",
+      "record_b": "HTL-GSB-01210",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-047",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01207",
+      "record_b": "HTL-TSA-01208",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-047",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01207",
+      "record_b": "HTL-HCC-01209",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-047",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01207",
+      "record_b": "HTL-GSB-01210",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-047",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01208",
+      "record_b": "HTL-HCC-01209",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-047",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01208",
+      "record_b": "HTL-GSB-01210",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-047",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01209",
+      "record_b": "HTL-GSB-01210",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-047",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01211",
+      "record_b": "HTL-TNE-01212",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-048",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01211",
+      "record_b": "HTL-TSA-01213",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-048",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01212",
+      "record_b": "HTL-TSA-01213",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-048",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01214",
+      "record_b": "HTL-TNE-01215",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-049",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01214",
+      "record_b": "HTL-TSA-01216",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-049",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01214",
+      "record_b": "HTL-EWD-01217",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-049",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01214",
+      "record_b": "HTL-GSB-01218",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-049",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01215",
+      "record_b": "HTL-TSA-01216",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-049",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01215",
+      "record_b": "HTL-EWD-01217",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-049",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01215",
+      "record_b": "HTL-GSB-01218",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-049",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01216",
+      "record_b": "HTL-EWD-01217",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-049",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01216",
+      "record_b": "HTL-GSB-01218",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-049",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01217",
+      "record_b": "HTL-GSB-01218",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-049",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01219",
+      "record_b": "HTL-TSA-01220",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-050",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01219",
+      "record_b": "HTL-TNE-01221",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-050",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01219",
+      "record_b": "HTL-HCC-01222",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-050",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01219",
+      "record_b": "HTL-EWD-01223",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-050",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01220",
+      "record_b": "HTL-TNE-01221",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-050",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01220",
+      "record_b": "HTL-HCC-01222",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-050",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01220",
+      "record_b": "HTL-EWD-01223",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-050",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01221",
+      "record_b": "HTL-HCC-01222",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-050",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01221",
+      "record_b": "HTL-EWD-01223",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-050",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01222",
+      "record_b": "HTL-EWD-01223",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-050",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01224",
+      "record_b": "HTL-TNE-01225",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-051",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01224",
+      "record_b": "HTL-GSB-01226",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-051",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01225",
+      "record_b": "HTL-GSB-01226",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-051",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01227",
+      "record_b": "HTL-EWD-01228",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-052",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01227",
+      "record_b": "HTL-TSA-01229",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-052",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01228",
+      "record_b": "HTL-TSA-01229",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-052",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01230",
+      "record_b": "HTL-GSB-01231",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-053",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01230",
+      "record_b": "HTL-TNE-01232",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-053",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01230",
+      "record_b": "HTL-EWD-01233",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-053",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01231",
+      "record_b": "HTL-TNE-01232",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-053",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01231",
+      "record_b": "HTL-EWD-01233",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-053",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01232",
+      "record_b": "HTL-EWD-01233",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-053",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01234",
+      "record_b": "HTL-HCC-01235",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-054",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01234",
+      "record_b": "HTL-TSA-01236",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-054",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01234",
+      "record_b": "HTL-GSB-01237",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-054",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01234",
+      "record_b": "HTL-TNE-01238",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-054",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01235",
+      "record_b": "HTL-TSA-01236",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-054",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01235",
+      "record_b": "HTL-GSB-01237",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-054",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01235",
+      "record_b": "HTL-TNE-01238",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-054",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01236",
+      "record_b": "HTL-GSB-01237",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-054",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01236",
+      "record_b": "HTL-TNE-01238",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-054",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01237",
+      "record_b": "HTL-TNE-01238",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-054",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01239",
+      "record_b": "HTL-EWD-01240",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-055",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01239",
+      "record_b": "HTL-HCC-01241",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-055",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01239",
+      "record_b": "HTL-GSB-01242",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-055",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01240",
+      "record_b": "HTL-HCC-01241",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-055",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01240",
+      "record_b": "HTL-GSB-01242",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-055",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01241",
+      "record_b": "HTL-GSB-01242",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-055",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01243",
+      "record_b": "HTL-HCC-01244",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-056",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01243",
+      "record_b": "HTL-GSB-01245",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-056",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01243",
+      "record_b": "HTL-TNE-01246",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-056",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01243",
+      "record_b": "HTL-EWD-01247",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-056",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01244",
+      "record_b": "HTL-GSB-01245",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-056",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01244",
+      "record_b": "HTL-TNE-01246",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-056",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01244",
+      "record_b": "HTL-EWD-01247",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-056",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01245",
+      "record_b": "HTL-TNE-01246",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-056",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01245",
+      "record_b": "HTL-EWD-01247",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-056",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01246",
+      "record_b": "HTL-EWD-01247",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-056",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01248",
+      "record_b": "HTL-EWD-01249",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-057",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01248",
+      "record_b": "HTL-HCC-01250",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-057",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01248",
+      "record_b": "HTL-TSA-01251",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-057",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01249",
+      "record_b": "HTL-HCC-01250",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-057",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01249",
+      "record_b": "HTL-TSA-01251",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-057",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01250",
+      "record_b": "HTL-TSA-01251",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-057",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01252",
+      "record_b": "HTL-TNE-01253",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-058",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01252",
+      "record_b": "HTL-GSB-01254",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-058",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01252",
+      "record_b": "HTL-TSA-01255",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-058",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01252",
+      "record_b": "HTL-HCC-01256",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-058",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01253",
+      "record_b": "HTL-GSB-01254",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-058",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01253",
+      "record_b": "HTL-TSA-01255",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-058",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01253",
+      "record_b": "HTL-HCC-01256",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-058",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01254",
+      "record_b": "HTL-TSA-01255",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-058",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01254",
+      "record_b": "HTL-HCC-01256",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-058",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01255",
+      "record_b": "HTL-HCC-01256",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-058",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01257",
+      "record_b": "HTL-TNE-01258",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-059",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01257",
+      "record_b": "HTL-TSA-01259",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-059",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01257",
+      "record_b": "HTL-EWD-01260",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-059",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01257",
+      "record_b": "HTL-HCC-01261",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-059",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01258",
+      "record_b": "HTL-TSA-01259",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-059",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01258",
+      "record_b": "HTL-EWD-01260",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-059",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01258",
+      "record_b": "HTL-HCC-01261",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-059",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01259",
+      "record_b": "HTL-EWD-01260",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-059",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01259",
+      "record_b": "HTL-HCC-01261",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-059",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01260",
+      "record_b": "HTL-HCC-01261",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-059",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01262",
+      "record_b": "HTL-GSB-01263",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-060",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01262",
+      "record_b": "HTL-EWD-01264",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-060",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01262",
+      "record_b": "HTL-TNE-01265",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-060",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01262",
+      "record_b": "HTL-HCC-01266",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-060",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01263",
+      "record_b": "HTL-EWD-01264",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-060",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01263",
+      "record_b": "HTL-TNE-01265",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-060",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01263",
+      "record_b": "HTL-HCC-01266",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-060",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01264",
+      "record_b": "HTL-TNE-01265",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-060",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01264",
+      "record_b": "HTL-HCC-01266",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-060",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01265",
+      "record_b": "HTL-HCC-01266",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-060",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01267",
+      "record_b": "HTL-TSA-01268",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-061",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01267",
+      "record_b": "HTL-HCC-01269",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-061",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01267",
+      "record_b": "HTL-GSB-01270",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-061",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01267",
+      "record_b": "HTL-EWD-01271",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-061",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01268",
+      "record_b": "HTL-HCC-01269",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-061",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01268",
+      "record_b": "HTL-GSB-01270",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-061",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01268",
+      "record_b": "HTL-EWD-01271",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-061",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01269",
+      "record_b": "HTL-GSB-01270",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-061",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01269",
+      "record_b": "HTL-EWD-01271",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-061",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01270",
+      "record_b": "HTL-EWD-01271",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-061",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01272",
+      "record_b": "HTL-TSA-01273",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-062",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01272",
+      "record_b": "HTL-EWD-01274",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-062",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01272",
+      "record_b": "HTL-GSB-01275",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-062",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01272",
+      "record_b": "HTL-TNE-01276",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-062",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01273",
+      "record_b": "HTL-EWD-01274",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-062",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01273",
+      "record_b": "HTL-GSB-01275",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-062",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01273",
+      "record_b": "HTL-TNE-01276",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-062",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01274",
+      "record_b": "HTL-GSB-01275",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-062",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01274",
+      "record_b": "HTL-TNE-01276",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-062",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01275",
+      "record_b": "HTL-TNE-01276",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-062",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01277",
+      "record_b": "HTL-EWD-01278",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-063",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01277",
+      "record_b": "HTL-GSB-01279",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-063",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01277",
+      "record_b": "HTL-TSA-01280",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-063",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01277",
+      "record_b": "HTL-TNE-01281",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-063",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01278",
+      "record_b": "HTL-GSB-01279",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-063",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01278",
+      "record_b": "HTL-TSA-01280",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-063",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01278",
+      "record_b": "HTL-TNE-01281",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-063",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01279",
+      "record_b": "HTL-TSA-01280",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-063",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01279",
+      "record_b": "HTL-TNE-01281",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-063",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01280",
+      "record_b": "HTL-TNE-01281",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-063",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01282",
+      "record_b": "HTL-HCC-01283",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-064",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01282",
+      "record_b": "HTL-TSA-01284",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-064",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01282",
+      "record_b": "HTL-EWD-01285",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-064",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01283",
+      "record_b": "HTL-TSA-01284",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-064",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01283",
+      "record_b": "HTL-EWD-01285",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-064",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01284",
+      "record_b": "HTL-EWD-01285",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-064",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01286",
+      "record_b": "HTL-TNE-01287",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-065",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01286",
+      "record_b": "HTL-TSA-01288",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-065",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01286",
+      "record_b": "HTL-EWD-01289",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-065",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01286",
+      "record_b": "HTL-HCC-01290",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-065",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01287",
+      "record_b": "HTL-TSA-01288",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-065",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01287",
+      "record_b": "HTL-EWD-01289",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-065",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01287",
+      "record_b": "HTL-HCC-01290",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-065",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01288",
+      "record_b": "HTL-EWD-01289",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-065",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01288",
+      "record_b": "HTL-HCC-01290",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-065",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01289",
+      "record_b": "HTL-HCC-01290",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-065",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01291",
+      "record_b": "HTL-TNE-01292",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-066",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01291",
+      "record_b": "HTL-HCC-01293",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-066",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01292",
+      "record_b": "HTL-HCC-01293",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-066",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01294",
+      "record_b": "HTL-HCC-01295",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-067",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01294",
+      "record_b": "HTL-GSB-01296",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-067",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01294",
+      "record_b": "HTL-EWD-01297",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-067",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01294",
+      "record_b": "HTL-TSA-01298",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-067",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01295",
+      "record_b": "HTL-GSB-01296",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-067",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01295",
+      "record_b": "HTL-EWD-01297",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-067",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01295",
+      "record_b": "HTL-TSA-01298",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-067",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01296",
+      "record_b": "HTL-EWD-01297",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-067",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01296",
+      "record_b": "HTL-TSA-01298",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-067",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01297",
+      "record_b": "HTL-TSA-01298",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-067",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01299",
+      "record_b": "HTL-GSB-01300",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-068",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01299",
+      "record_b": "HTL-TNE-01301",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-068",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01299",
+      "record_b": "HTL-EWD-01302",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-068",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01299",
+      "record_b": "HTL-HCC-01303",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-068",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01300",
+      "record_b": "HTL-TNE-01301",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-068",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01300",
+      "record_b": "HTL-EWD-01302",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-068",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01300",
+      "record_b": "HTL-HCC-01303",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-068",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01301",
+      "record_b": "HTL-EWD-01302",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-068",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01301",
+      "record_b": "HTL-HCC-01303",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-068",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01302",
+      "record_b": "HTL-HCC-01303",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-068",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01304",
+      "record_b": "HTL-HCC-01305",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-069",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01304",
+      "record_b": "HTL-GSB-01306",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-069",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01304",
+      "record_b": "HTL-TSA-01307",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-069",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01304",
+      "record_b": "HTL-EWD-01308",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-069",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01305",
+      "record_b": "HTL-GSB-01306",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-069",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01305",
+      "record_b": "HTL-TSA-01307",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-069",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01305",
+      "record_b": "HTL-EWD-01308",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-069",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01306",
+      "record_b": "HTL-TSA-01307",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-069",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01306",
+      "record_b": "HTL-EWD-01308",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-069",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01307",
+      "record_b": "HTL-EWD-01308",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-069",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01309",
+      "record_b": "HTL-TSA-01310",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-070",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01309",
+      "record_b": "HTL-GSB-01311",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-070",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01310",
+      "record_b": "HTL-GSB-01311",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-070",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01312",
+      "record_b": "HTL-HCC-01313",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-071",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01312",
+      "record_b": "HTL-TNE-01314",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-071",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01312",
+      "record_b": "HTL-TSA-01315",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-071",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01312",
+      "record_b": "HTL-GSB-01316",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-071",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01313",
+      "record_b": "HTL-TNE-01314",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-071",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01313",
+      "record_b": "HTL-TSA-01315",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-071",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01313",
+      "record_b": "HTL-GSB-01316",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-071",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01314",
+      "record_b": "HTL-TSA-01315",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-071",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01314",
+      "record_b": "HTL-GSB-01316",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-071",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01315",
+      "record_b": "HTL-GSB-01316",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-071",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01317",
+      "record_b": "HTL-GSB-01318",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-072",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01317",
+      "record_b": "HTL-EWD-01319",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-072",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01317",
+      "record_b": "HTL-TSA-01320",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-072",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01317",
+      "record_b": "HTL-HCC-01321",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-072",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01318",
+      "record_b": "HTL-EWD-01319",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-072",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01318",
+      "record_b": "HTL-TSA-01320",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-072",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01318",
+      "record_b": "HTL-HCC-01321",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-072",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01319",
+      "record_b": "HTL-TSA-01320",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-072",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01319",
+      "record_b": "HTL-HCC-01321",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-072",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01320",
+      "record_b": "HTL-HCC-01321",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-072",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01322",
+      "record_b": "HTL-TSA-01323",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-073",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01322",
+      "record_b": "HTL-GSB-01324",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-073",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01322",
+      "record_b": "HTL-TNE-01325",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-073",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01322",
+      "record_b": "HTL-HCC-01326",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-073",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01323",
+      "record_b": "HTL-GSB-01324",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-073",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01323",
+      "record_b": "HTL-TNE-01325",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-073",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01323",
+      "record_b": "HTL-HCC-01326",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-073",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01324",
+      "record_b": "HTL-TNE-01325",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-073",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01324",
+      "record_b": "HTL-HCC-01326",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-073",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01325",
+      "record_b": "HTL-HCC-01326",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-073",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01327",
+      "record_b": "HTL-TNE-01328",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-074",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01327",
+      "record_b": "HTL-GSB-01329",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-074",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01327",
+      "record_b": "HTL-TSA-01330",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-074",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01327",
+      "record_b": "HTL-EWD-01331",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-074",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01328",
+      "record_b": "HTL-GSB-01329",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-074",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01328",
+      "record_b": "HTL-TSA-01330",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-074",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01328",
+      "record_b": "HTL-EWD-01331",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-074",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01329",
+      "record_b": "HTL-TSA-01330",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-074",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01329",
+      "record_b": "HTL-EWD-01331",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-074",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01330",
+      "record_b": "HTL-EWD-01331",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-074",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01332",
+      "record_b": "HTL-TNE-01333",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-075",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01332",
+      "record_b": "HTL-TSA-01334",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-075",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01332",
+      "record_b": "HTL-GSB-01335",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-075",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01333",
+      "record_b": "HTL-TSA-01334",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-075",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01333",
+      "record_b": "HTL-GSB-01335",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-075",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01334",
+      "record_b": "HTL-GSB-01335",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-075",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01336",
+      "record_b": "HTL-EWD-01337",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-076",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01336",
+      "record_b": "HTL-HCC-01338",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-076",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01337",
+      "record_b": "HTL-HCC-01338",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-076",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01339",
+      "record_b": "HTL-HCC-01340",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-077",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01339",
+      "record_b": "HTL-EWD-01341",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-077",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01339",
+      "record_b": "HTL-TSA-01342",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-077",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01340",
+      "record_b": "HTL-EWD-01341",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-077",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01340",
+      "record_b": "HTL-TSA-01342",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-077",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01341",
+      "record_b": "HTL-TSA-01342",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-077",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01343",
+      "record_b": "HTL-TNE-01344",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-078",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01343",
+      "record_b": "HTL-HCC-01345",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-078",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01343",
+      "record_b": "HTL-EWD-01346",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-078",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01343",
+      "record_b": "HTL-TSA-01347",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-078",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01344",
+      "record_b": "HTL-HCC-01345",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-078",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01344",
+      "record_b": "HTL-EWD-01346",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-078",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01344",
+      "record_b": "HTL-TSA-01347",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-078",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01345",
+      "record_b": "HTL-EWD-01346",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-078",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01345",
+      "record_b": "HTL-TSA-01347",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-078",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01346",
+      "record_b": "HTL-TSA-01347",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-078",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01348",
+      "record_b": "HTL-TSA-01349",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-079",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01348",
+      "record_b": "HTL-GSB-01350",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-079",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01348",
+      "record_b": "HTL-HCC-01351",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-079",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01349",
+      "record_b": "HTL-GSB-01350",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-079",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01349",
+      "record_b": "HTL-HCC-01351",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-079",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01350",
+      "record_b": "HTL-HCC-01351",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-079",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01352",
+      "record_b": "HTL-GSB-01353",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-080",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01352",
+      "record_b": "HTL-TSA-01354",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-080",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01353",
+      "record_b": "HTL-TSA-01354",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-080",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01355",
+      "record_b": "HTL-EWD-01356",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-081",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01355",
+      "record_b": "HTL-GSB-01357",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-081",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01355",
+      "record_b": "HTL-HCC-01358",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-081",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01355",
+      "record_b": "HTL-TNE-01359",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-081",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01356",
+      "record_b": "HTL-GSB-01357",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-081",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01356",
+      "record_b": "HTL-HCC-01358",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-081",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01356",
+      "record_b": "HTL-TNE-01359",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-081",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01357",
+      "record_b": "HTL-HCC-01358",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-081",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01357",
+      "record_b": "HTL-TNE-01359",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-081",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01358",
+      "record_b": "HTL-TNE-01359",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-081",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01360",
+      "record_b": "HTL-EWD-01361",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-082",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01360",
+      "record_b": "HTL-TNE-01362",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-082",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01360",
+      "record_b": "HTL-GSB-01363",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-082",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01360",
+      "record_b": "HTL-TSA-01364",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-082",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01361",
+      "record_b": "HTL-TNE-01362",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-082",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01361",
+      "record_b": "HTL-GSB-01363",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-082",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01361",
+      "record_b": "HTL-TSA-01364",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-082",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01362",
+      "record_b": "HTL-GSB-01363",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-082",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01362",
+      "record_b": "HTL-TSA-01364",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-082",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01363",
+      "record_b": "HTL-TSA-01364",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-082",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01365",
+      "record_b": "HTL-EWD-01366",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-083",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01365",
+      "record_b": "HTL-TNE-01367",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-083",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01365",
+      "record_b": "HTL-GSB-01368",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-083",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01365",
+      "record_b": "HTL-TSA-01369",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-083",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01366",
+      "record_b": "HTL-TNE-01367",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-083",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01366",
+      "record_b": "HTL-GSB-01368",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-083",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01366",
+      "record_b": "HTL-TSA-01369",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-083",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01367",
+      "record_b": "HTL-GSB-01368",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-083",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01367",
+      "record_b": "HTL-TSA-01369",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-083",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01368",
+      "record_b": "HTL-TSA-01369",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-083",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01370",
+      "record_b": "HTL-TNE-01371",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-084",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01370",
+      "record_b": "HTL-EWD-01372",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-084",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01371",
+      "record_b": "HTL-EWD-01372",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-084",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01373",
+      "record_b": "HTL-EWD-01374",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-085",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01373",
+      "record_b": "HTL-GSB-01375",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-085",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01374",
+      "record_b": "HTL-GSB-01375",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-085",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01376",
+      "record_b": "HTL-HCC-01377",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-086",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01376",
+      "record_b": "HTL-GSB-01378",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-086",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01376",
+      "record_b": "HTL-TSA-01379",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-086",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01376",
+      "record_b": "HTL-TNE-01380",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-086",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01377",
+      "record_b": "HTL-GSB-01378",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-086",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01377",
+      "record_b": "HTL-TSA-01379",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-086",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01377",
+      "record_b": "HTL-TNE-01380",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-086",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01378",
+      "record_b": "HTL-TSA-01379",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-086",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01378",
+      "record_b": "HTL-TNE-01380",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-086",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01379",
+      "record_b": "HTL-TNE-01380",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-086",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01381",
+      "record_b": "HTL-EWD-01382",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-087",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01381",
+      "record_b": "HTL-TSA-01383",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-087",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01381",
+      "record_b": "HTL-GSB-01384",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-087",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01382",
+      "record_b": "HTL-TSA-01383",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-087",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01382",
+      "record_b": "HTL-GSB-01384",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-087",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01383",
+      "record_b": "HTL-GSB-01384",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-087",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01385",
+      "record_b": "HTL-HCC-01386",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-088",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01385",
+      "record_b": "HTL-TSA-01387",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-088",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01385",
+      "record_b": "HTL-TNE-01388",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-088",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01385",
+      "record_b": "HTL-GSB-01389",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-088",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01386",
+      "record_b": "HTL-TSA-01387",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-088",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01386",
+      "record_b": "HTL-TNE-01388",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-088",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01386",
+      "record_b": "HTL-GSB-01389",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-088",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01387",
+      "record_b": "HTL-TNE-01388",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-088",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01387",
+      "record_b": "HTL-GSB-01389",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-088",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01388",
+      "record_b": "HTL-GSB-01389",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-088",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01390",
+      "record_b": "HTL-GSB-01391",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-089",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01390",
+      "record_b": "HTL-TSA-01392",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-089",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01390",
+      "record_b": "HTL-HCC-01393",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-089",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01390",
+      "record_b": "HTL-TNE-01394",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-089",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01391",
+      "record_b": "HTL-TSA-01392",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-089",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01391",
+      "record_b": "HTL-HCC-01393",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-089",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01391",
+      "record_b": "HTL-TNE-01394",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-089",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01392",
+      "record_b": "HTL-HCC-01393",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-089",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01392",
+      "record_b": "HTL-TNE-01394",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-089",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01393",
+      "record_b": "HTL-TNE-01394",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-089",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01395",
+      "record_b": "HTL-TNE-01396",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-090",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01395",
+      "record_b": "HTL-GSB-01397",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-090",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01395",
+      "record_b": "HTL-TSA-01398",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-090",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01395",
+      "record_b": "HTL-HCC-01399",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-090",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01396",
+      "record_b": "HTL-GSB-01397",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-090",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01396",
+      "record_b": "HTL-TSA-01398",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-090",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01396",
+      "record_b": "HTL-HCC-01399",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-090",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01397",
+      "record_b": "HTL-TSA-01398",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-090",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01397",
+      "record_b": "HTL-HCC-01399",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-090",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01398",
+      "record_b": "HTL-HCC-01399",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-090",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01400",
+      "record_b": "HTL-GSB-01401",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-091",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01400",
+      "record_b": "HTL-TNE-01402",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-091",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01400",
+      "record_b": "HTL-EWD-01403",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-091",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01400",
+      "record_b": "HTL-HCC-01404",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-091",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01401",
+      "record_b": "HTL-TNE-01402",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-091",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01401",
+      "record_b": "HTL-EWD-01403",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-091",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01401",
+      "record_b": "HTL-HCC-01404",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-091",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01402",
+      "record_b": "HTL-EWD-01403",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-091",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01402",
+      "record_b": "HTL-HCC-01404",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-091",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01403",
+      "record_b": "HTL-HCC-01404",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-091",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01405",
+      "record_b": "HTL-HCC-01406",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-092",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01405",
+      "record_b": "HTL-GSB-01407",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-092",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01405",
+      "record_b": "HTL-TSA-01408",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-092",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01406",
+      "record_b": "HTL-GSB-01407",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-092",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01406",
+      "record_b": "HTL-TSA-01408",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-092",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01407",
+      "record_b": "HTL-TSA-01408",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-092",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01409",
+      "record_b": "HTL-EWD-01410",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-093",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01409",
+      "record_b": "HTL-HCC-01411",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-093",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01409",
+      "record_b": "HTL-TNE-01412",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-093",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01409",
+      "record_b": "HTL-GSB-01413",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-093",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01410",
+      "record_b": "HTL-HCC-01411",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-093",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01410",
+      "record_b": "HTL-TNE-01412",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-093",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01410",
+      "record_b": "HTL-GSB-01413",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-093",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01411",
+      "record_b": "HTL-TNE-01412",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-093",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01411",
+      "record_b": "HTL-GSB-01413",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-093",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01412",
+      "record_b": "HTL-GSB-01413",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-093",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01414",
+      "record_b": "HTL-GSB-01415",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-094",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01414",
+      "record_b": "HTL-TSA-01416",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-094",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01414",
+      "record_b": "HTL-HCC-01417",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-094",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01414",
+      "record_b": "HTL-TNE-01418",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-094",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01415",
+      "record_b": "HTL-TSA-01416",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-094",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01415",
+      "record_b": "HTL-HCC-01417",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-094",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01415",
+      "record_b": "HTL-TNE-01418",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-094",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01416",
+      "record_b": "HTL-HCC-01417",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-094",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01416",
+      "record_b": "HTL-TNE-01418",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-094",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01417",
+      "record_b": "HTL-TNE-01418",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-094",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01419",
+      "record_b": "HTL-TNE-01420",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-095",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01419",
+      "record_b": "HTL-EWD-01421",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-095",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01419",
+      "record_b": "HTL-HCC-01422",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-095",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01419",
+      "record_b": "HTL-GSB-01423",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-095",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01420",
+      "record_b": "HTL-EWD-01421",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-095",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01420",
+      "record_b": "HTL-HCC-01422",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-095",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01420",
+      "record_b": "HTL-GSB-01423",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-095",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01421",
+      "record_b": "HTL-HCC-01422",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-095",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01421",
+      "record_b": "HTL-GSB-01423",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-095",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01422",
+      "record_b": "HTL-GSB-01423",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-095",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01424",
+      "record_b": "HTL-EWD-01425",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-096",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01424",
+      "record_b": "HTL-HCC-01426",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-096",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01424",
+      "record_b": "HTL-TSA-01427",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-096",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01424",
+      "record_b": "HTL-TNE-01428",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-096",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01425",
+      "record_b": "HTL-HCC-01426",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-096",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01425",
+      "record_b": "HTL-TSA-01427",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-096",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01425",
+      "record_b": "HTL-TNE-01428",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-096",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01426",
+      "record_b": "HTL-TSA-01427",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-096",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01426",
+      "record_b": "HTL-TNE-01428",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-096",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01427",
+      "record_b": "HTL-TNE-01428",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-096",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01429",
+      "record_b": "HTL-TNE-01430",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-097",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01429",
+      "record_b": "HTL-EWD-01431",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-097",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01430",
+      "record_b": "HTL-EWD-01431",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-097",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01432",
+      "record_b": "HTL-EWD-01433",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-098",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01432",
+      "record_b": "HTL-HCC-01434",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-098",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01432",
+      "record_b": "HTL-GSB-01435",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-098",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01432",
+      "record_b": "HTL-TNE-01436",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-098",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01433",
+      "record_b": "HTL-HCC-01434",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-098",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01433",
+      "record_b": "HTL-GSB-01435",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-098",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01433",
+      "record_b": "HTL-TNE-01436",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-098",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01434",
+      "record_b": "HTL-GSB-01435",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-098",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01434",
+      "record_b": "HTL-TNE-01436",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-098",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01435",
+      "record_b": "HTL-TNE-01436",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-098",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01437",
+      "record_b": "HTL-HCC-01438",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-099",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01437",
+      "record_b": "HTL-TNE-01439",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-099",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01437",
+      "record_b": "HTL-TSA-01440",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-099",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01437",
+      "record_b": "HTL-EWD-01441",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-099",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01438",
+      "record_b": "HTL-TNE-01439",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-099",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01438",
+      "record_b": "HTL-TSA-01440",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-099",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01438",
+      "record_b": "HTL-EWD-01441",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-099",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01439",
+      "record_b": "HTL-TSA-01440",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-099",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01439",
+      "record_b": "HTL-EWD-01441",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-099",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01440",
+      "record_b": "HTL-EWD-01441",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-099",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01442",
+      "record_b": "HTL-HCC-01443",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-100",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01442",
+      "record_b": "HTL-GSB-01444",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-100",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01442",
+      "record_b": "HTL-TNE-01445",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-100",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01443",
+      "record_b": "HTL-GSB-01444",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-100",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01443",
+      "record_b": "HTL-TNE-01445",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-100",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01444",
+      "record_b": "HTL-TNE-01445",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-100",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01446",
+      "record_b": "HTL-EWD-01447",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-101",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01446",
+      "record_b": "HTL-GSB-01448",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-101",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01446",
+      "record_b": "HTL-TNE-01449",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-101",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01447",
+      "record_b": "HTL-GSB-01448",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-101",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01447",
+      "record_b": "HTL-TNE-01449",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-101",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01448",
+      "record_b": "HTL-TNE-01449",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-101",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01450",
+      "record_b": "HTL-GSB-01451",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-102",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01450",
+      "record_b": "HTL-TNE-01452",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-102",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01450",
+      "record_b": "HTL-EWD-01453",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-102",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01451",
+      "record_b": "HTL-TNE-01452",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-102",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01451",
+      "record_b": "HTL-EWD-01453",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-102",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01452",
+      "record_b": "HTL-EWD-01453",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-102",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01454",
+      "record_b": "HTL-GSB-01455",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-103",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01454",
+      "record_b": "HTL-TNE-01456",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-103",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01455",
+      "record_b": "HTL-TNE-01456",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-103",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01457",
+      "record_b": "HTL-HCC-01458",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-104",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01457",
+      "record_b": "HTL-TNE-01459",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-104",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01457",
+      "record_b": "HTL-EWD-01460",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-104",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01457",
+      "record_b": "HTL-GSB-01461",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-104",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01458",
+      "record_b": "HTL-TNE-01459",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-104",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01458",
+      "record_b": "HTL-EWD-01460",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-104",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01458",
+      "record_b": "HTL-GSB-01461",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-104",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01459",
+      "record_b": "HTL-EWD-01460",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-104",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01459",
+      "record_b": "HTL-GSB-01461",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-104",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01460",
+      "record_b": "HTL-GSB-01461",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-104",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01462",
+      "record_b": "HTL-TNE-01463",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-105",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01462",
+      "record_b": "HTL-GSB-01464",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-105",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01463",
+      "record_b": "HTL-GSB-01464",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-105",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01465",
+      "record_b": "HTL-TNE-01466",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-106",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01465",
+      "record_b": "HTL-GSB-01467",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-106",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01465",
+      "record_b": "HTL-HCC-01468",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-106",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01465",
+      "record_b": "HTL-TSA-01469",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-106",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01466",
+      "record_b": "HTL-GSB-01467",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-106",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01466",
+      "record_b": "HTL-HCC-01468",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-106",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01466",
+      "record_b": "HTL-TSA-01469",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-106",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01467",
+      "record_b": "HTL-HCC-01468",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-106",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01467",
+      "record_b": "HTL-TSA-01469",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-106",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01468",
+      "record_b": "HTL-TSA-01469",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-106",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01470",
+      "record_b": "HTL-TNE-01471",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-107",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01470",
+      "record_b": "HTL-HCC-01472",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-107",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01470",
+      "record_b": "HTL-GSB-01473",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-107",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01470",
+      "record_b": "HTL-TSA-01474",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-107",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01471",
+      "record_b": "HTL-HCC-01472",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-107",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01471",
+      "record_b": "HTL-GSB-01473",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-107",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01471",
+      "record_b": "HTL-TSA-01474",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-107",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01472",
+      "record_b": "HTL-GSB-01473",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-107",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01472",
+      "record_b": "HTL-TSA-01474",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-107",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01473",
+      "record_b": "HTL-TSA-01474",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-107",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01475",
+      "record_b": "HTL-GSB-01476",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-108",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01475",
+      "record_b": "HTL-EWD-01477",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-108",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01475",
+      "record_b": "HTL-TNE-01478",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-108",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01476",
+      "record_b": "HTL-EWD-01477",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-108",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01476",
+      "record_b": "HTL-TNE-01478",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-108",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01477",
+      "record_b": "HTL-TNE-01478",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-108",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01479",
+      "record_b": "HTL-TSA-01480",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-109",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01479",
+      "record_b": "HTL-HCC-01481",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-109",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01480",
+      "record_b": "HTL-HCC-01481",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-109",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01482",
+      "record_b": "HTL-GSB-01483",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-110",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01482",
+      "record_b": "HTL-TSA-01484",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-110",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01483",
+      "record_b": "HTL-TSA-01484",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-110",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01485",
+      "record_b": "HTL-HCC-01486",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-111",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01485",
+      "record_b": "HTL-TSA-01487",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-111",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01485",
+      "record_b": "HTL-EWD-01488",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-111",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01486",
+      "record_b": "HTL-TSA-01487",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-111",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01486",
+      "record_b": "HTL-EWD-01488",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-111",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01487",
+      "record_b": "HTL-EWD-01488",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-111",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01489",
+      "record_b": "HTL-EWD-01490",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-112",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01489",
+      "record_b": "HTL-HCC-01491",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-112",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01489",
+      "record_b": "HTL-GSB-01492",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-112",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01489",
+      "record_b": "HTL-TSA-01493",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-112",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01490",
+      "record_b": "HTL-HCC-01491",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-112",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01490",
+      "record_b": "HTL-GSB-01492",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-112",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-EWD-01490",
+      "record_b": "HTL-TSA-01493",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-112",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01491",
+      "record_b": "HTL-GSB-01492",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-112",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01491",
+      "record_b": "HTL-TSA-01493",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-112",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01492",
+      "record_b": "HTL-TSA-01493",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-112",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01494",
+      "record_b": "HTL-TSA-01495",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-113",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01494",
+      "record_b": "HTL-HCC-01496",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-113",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01495",
+      "record_b": "HTL-HCC-01496",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-113",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01497",
+      "record_b": "HTL-HCC-01498",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-114",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01497",
+      "record_b": "HTL-TSA-01499",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-114",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01497",
+      "record_b": "HTL-EWD-01500",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-114",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01498",
+      "record_b": "HTL-TSA-01499",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-114",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01498",
+      "record_b": "HTL-EWD-01500",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-114",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01499",
+      "record_b": "HTL-EWD-01500",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-114",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01501",
+      "record_b": "HTL-GSB-01502",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-115",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01501",
+      "record_b": "HTL-TSA-01503",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-115",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01501",
+      "record_b": "HTL-TNE-01504",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-115",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-HCC-01501",
+      "record_b": "HTL-EWD-01505",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-115",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01502",
+      "record_b": "HTL-TSA-01503",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-115",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01502",
+      "record_b": "HTL-TNE-01504",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-115",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-GSB-01502",
+      "record_b": "HTL-EWD-01505",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-115",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01503",
+      "record_b": "HTL-TNE-01504",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-115",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TSA-01503",
+      "record_b": "HTL-EWD-01505",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-115",
+      "reason": "Same physical hotel across suppliers"
+    },
+    {
+      "record_a": "HTL-TNE-01504",
+      "record_b": "HTL-EWD-01505",
+      "is_match": true,
+      "canonical_id": "CAN-HTL-115",
+      "reason": "Same physical hotel across suppliers"
+    }
+  ]
+}

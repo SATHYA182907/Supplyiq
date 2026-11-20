@@ -1,0 +1,3526 @@
+{
+  "total_records": 300,
+  "matches": [
+    {
+      "record_a": "SGT-TSA-02001",
+      "record_b": "SGT-HCC-02002",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02001",
+      "record_b": "SGT-EWD-02003",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02001",
+      "record_b": "SGT-GSB-02004",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02001",
+      "record_b": "SGT-TNE-02005",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02002",
+      "record_b": "SGT-EWD-02003",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02002",
+      "record_b": "SGT-GSB-02004",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02002",
+      "record_b": "SGT-TNE-02005",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02003",
+      "record_b": "SGT-GSB-02004",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02003",
+      "record_b": "SGT-TNE-02005",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02004",
+      "record_b": "SGT-TNE-02005",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02006",
+      "record_b": "SGT-GSB-02007",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02006",
+      "record_b": "SGT-TSA-02008",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02006",
+      "record_b": "SGT-HCC-02009",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02006",
+      "record_b": "SGT-EWD-02010",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02007",
+      "record_b": "SGT-TSA-02008",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02007",
+      "record_b": "SGT-HCC-02009",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02007",
+      "record_b": "SGT-EWD-02010",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02008",
+      "record_b": "SGT-HCC-02009",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02008",
+      "record_b": "SGT-EWD-02010",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02009",
+      "record_b": "SGT-EWD-02010",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02011",
+      "record_b": "SGT-TSA-02012",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-COMBO_TRANSFER",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02011",
+      "record_b": "SGT-HCC-02013",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-COMBO_TRANSFER",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02011",
+      "record_b": "SGT-EWD-02014",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-COMBO_TRANSFER",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02011",
+      "record_b": "SGT-TNE-02015",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-COMBO_TRANSFER",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02012",
+      "record_b": "SGT-HCC-02013",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-COMBO_TRANSFER",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02012",
+      "record_b": "SGT-EWD-02014",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-COMBO_TRANSFER",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02012",
+      "record_b": "SGT-TNE-02015",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-COMBO_TRANSFER",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02013",
+      "record_b": "SGT-EWD-02014",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-COMBO_TRANSFER",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02013",
+      "record_b": "SGT-TNE-02015",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-COMBO_TRANSFER",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02014",
+      "record_b": "SGT-TNE-02015",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-COMBO_TRANSFER",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02016",
+      "record_b": "SGT-HCC-02017",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-DINNER_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02016",
+      "record_b": "SGT-EWD-02018",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-DINNER_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02016",
+      "record_b": "SGT-GSB-02019",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-DINNER_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02016",
+      "record_b": "SGT-TSA-02020",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-DINNER_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02017",
+      "record_b": "SGT-EWD-02018",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-DINNER_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02017",
+      "record_b": "SGT-GSB-02019",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-DINNER_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02017",
+      "record_b": "SGT-TSA-02020",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-DINNER_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02018",
+      "record_b": "SGT-GSB-02019",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-DINNER_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02018",
+      "record_b": "SGT-TSA-02020",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-DINNER_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02019",
+      "record_b": "SGT-TSA-02020",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BUR-DINNER_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02021",
+      "record_b": "SGT-TNE-02022",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02021",
+      "record_b": "SGT-GSB-02023",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02021",
+      "record_b": "SGT-TSA-02024",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02021",
+      "record_b": "SGT-HCC-02025",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02022",
+      "record_b": "SGT-GSB-02023",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02022",
+      "record_b": "SGT-TSA-02024",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02022",
+      "record_b": "SGT-HCC-02025",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02023",
+      "record_b": "SGT-TSA-02024",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02023",
+      "record_b": "SGT-HCC-02025",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02024",
+      "record_b": "SGT-HCC-02025",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02026",
+      "record_b": "SGT-TSA-02027",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02026",
+      "record_b": "SGT-TNE-02028",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02027",
+      "record_b": "SGT-TNE-02028",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02029",
+      "record_b": "SGT-TSA-02030",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02029",
+      "record_b": "SGT-HCC-02031",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02029",
+      "record_b": "SGT-GSB-02032",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02030",
+      "record_b": "SGT-HCC-02031",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02030",
+      "record_b": "SGT-GSB-02032",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02031",
+      "record_b": "SGT-GSB-02032",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GAR-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02033",
+      "record_b": "SGT-EWD-02034",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02033",
+      "record_b": "SGT-TNE-02035",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02034",
+      "record_b": "SGT-TNE-02035",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02036",
+      "record_b": "SGT-GSB-02037",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02036",
+      "record_b": "SGT-TNE-02038",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02036",
+      "record_b": "SGT-EWD-02039",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02037",
+      "record_b": "SGT-TNE-02038",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02037",
+      "record_b": "SGT-EWD-02039",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02038",
+      "record_b": "SGT-EWD-02039",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02040",
+      "record_b": "SGT-TSA-02041",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02040",
+      "record_b": "SGT-HCC-02042",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02040",
+      "record_b": "SGT-GSB-02043",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02041",
+      "record_b": "SGT-HCC-02042",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02041",
+      "record_b": "SGT-GSB-02043",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02042",
+      "record_b": "SGT-GSB-02043",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOW-COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02044",
+      "record_b": "SGT-TSA-02045",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02044",
+      "record_b": "SGT-GSB-02046",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02044",
+      "record_b": "SGT-EWD-02047",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02044",
+      "record_b": "SGT-HCC-02048",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02045",
+      "record_b": "SGT-GSB-02046",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02045",
+      "record_b": "SGT-EWD-02047",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02045",
+      "record_b": "SGT-HCC-02048",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02046",
+      "record_b": "SGT-EWD-02047",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02046",
+      "record_b": "SGT-HCC-02048",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02047",
+      "record_b": "SGT-HCC-02048",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02049",
+      "record_b": "SGT-HCC-02050",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02049",
+      "record_b": "SGT-GSB-02051",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02049",
+      "record_b": "SGT-EWD-02052",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02049",
+      "record_b": "SGT-TSA-02053",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02050",
+      "record_b": "SGT-GSB-02051",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02050",
+      "record_b": "SGT-EWD-02052",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02050",
+      "record_b": "SGT-TSA-02053",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02051",
+      "record_b": "SGT-EWD-02052",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02051",
+      "record_b": "SGT-TSA-02053",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02052",
+      "record_b": "SGT-TSA-02053",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02054",
+      "record_b": "SGT-GSB-02055",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-PRIVATE_VIP",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02054",
+      "record_b": "SGT-TSA-02056",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-PRIVATE_VIP",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02054",
+      "record_b": "SGT-EWD-02057",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-PRIVATE_VIP",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02055",
+      "record_b": "SGT-TSA-02056",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-PRIVATE_VIP",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02055",
+      "record_b": "SGT-EWD-02057",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-PRIVATE_VIP",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02056",
+      "record_b": "SGT-EWD-02057",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LOU-PRIVATE_VIP",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02058",
+      "record_b": "SGT-TSA-02059",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EMP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02058",
+      "record_b": "SGT-GSB-02060",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EMP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02059",
+      "record_b": "SGT-GSB-02060",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EMP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02061",
+      "record_b": "SGT-TNE-02062",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EMP-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02061",
+      "record_b": "SGT-HCC-02063",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EMP-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02062",
+      "record_b": "SGT-HCC-02063",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EMP-FAST_TRACK",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02064",
+      "record_b": "SGT-TSA-02065",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02064",
+      "record_b": "SGT-TNE-02066",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02064",
+      "record_b": "SGT-EWD-02067",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02065",
+      "record_b": "SGT-TNE-02066",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02065",
+      "record_b": "SGT-EWD-02067",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02066",
+      "record_b": "SGT-EWD-02067",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02068",
+      "record_b": "SGT-EWD-02069",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02068",
+      "record_b": "SGT-TSA-02070",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02068",
+      "record_b": "SGT-GSB-02071",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02068",
+      "record_b": "SGT-TNE-02072",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02069",
+      "record_b": "SGT-TSA-02070",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02069",
+      "record_b": "SGT-GSB-02071",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02069",
+      "record_b": "SGT-TNE-02072",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02070",
+      "record_b": "SGT-GSB-02071",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02070",
+      "record_b": "SGT-TNE-02072",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02071",
+      "record_b": "SGT-TNE-02072",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-COL-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02073",
+      "record_b": "SGT-TSA-02074",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02073",
+      "record_b": "SGT-EWD-02075",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02073",
+      "record_b": "SGT-TNE-02076",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02073",
+      "record_b": "SGT-GSB-02077",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02074",
+      "record_b": "SGT-EWD-02075",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02074",
+      "record_b": "SGT-TNE-02076",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02074",
+      "record_b": "SGT-GSB-02077",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02075",
+      "record_b": "SGT-TNE-02076",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02075",
+      "record_b": "SGT-GSB-02077",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02076",
+      "record_b": "SGT-GSB-02077",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02078",
+      "record_b": "SGT-GSB-02079",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02078",
+      "record_b": "SGT-EWD-02080",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02079",
+      "record_b": "SGT-EWD-02080",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SAG-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02081",
+      "record_b": "SGT-GSB-02082",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02081",
+      "record_b": "SGT-TNE-02083",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02081",
+      "record_b": "SGT-EWD-02084",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02082",
+      "record_b": "SGT-TNE-02083",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02082",
+      "record_b": "SGT-EWD-02084",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02083",
+      "record_b": "SGT-EWD-02084",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-GUIDED_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02085",
+      "record_b": "SGT-EWD-02086",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-VIP_ACCESS",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02085",
+      "record_b": "SGT-TNE-02087",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-VIP_ACCESS",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02085",
+      "record_b": "SGT-TSA-02088",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-VIP_ACCESS",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02086",
+      "record_b": "SGT-TNE-02087",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-VIP_ACCESS",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02086",
+      "record_b": "SGT-TSA-02088",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-VIP_ACCESS",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02087",
+      "record_b": "SGT-TSA-02088",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SYD-VIP_ACCESS",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02089",
+      "record_b": "SGT-GSB-02090",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02089",
+      "record_b": "SGT-TNE-02091",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02089",
+      "record_b": "SGT-EWD-02092",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02089",
+      "record_b": "SGT-TSA-02093",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02090",
+      "record_b": "SGT-TNE-02091",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02090",
+      "record_b": "SGT-EWD-02092",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02090",
+      "record_b": "SGT-TSA-02093",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02091",
+      "record_b": "SGT-EWD-02092",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02091",
+      "record_b": "SGT-TSA-02093",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02092",
+      "record_b": "SGT-TSA-02093",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02094",
+      "record_b": "SGT-EWD-02095",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02094",
+      "record_b": "SGT-TSA-02096",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02094",
+      "record_b": "SGT-GSB-02097",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02095",
+      "record_b": "SGT-TSA-02096",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02095",
+      "record_b": "SGT-GSB-02097",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02096",
+      "record_b": "SGT-GSB-02097",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02098",
+      "record_b": "SGT-TSA-02099",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02098",
+      "record_b": "SGT-EWD-02100",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02098",
+      "record_b": "SGT-HCC-02101",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02098",
+      "record_b": "SGT-GSB-02102",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02099",
+      "record_b": "SGT-EWD-02100",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02099",
+      "record_b": "SGT-HCC-02101",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02099",
+      "record_b": "SGT-GSB-02102",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02100",
+      "record_b": "SGT-HCC-02101",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02100",
+      "record_b": "SGT-GSB-02102",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02101",
+      "record_b": "SGT-GSB-02102",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-UNI-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02103",
+      "record_b": "SGT-HCC-02104",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02103",
+      "record_b": "SGT-GSB-02105",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02104",
+      "record_b": "SGT-GSB-02105",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02106",
+      "record_b": "SGT-TNE-02107",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02106",
+      "record_b": "SGT-GSB-02108",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02106",
+      "record_b": "SGT-HCC-02109",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02107",
+      "record_b": "SGT-GSB-02108",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02107",
+      "record_b": "SGT-HCC-02109",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02108",
+      "record_b": "SGT-HCC-02109",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02110",
+      "record_b": "SGT-TSA-02111",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02110",
+      "record_b": "SGT-GSB-02112",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02111",
+      "record_b": "SGT-GSB-02112",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02113",
+      "record_b": "SGT-TNE-02114",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02113",
+      "record_b": "SGT-GSB-02115",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02114",
+      "record_b": "SGT-GSB-02115",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02116",
+      "record_b": "SGT-GSB-02117",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02116",
+      "record_b": "SGT-TNE-02118",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02116",
+      "record_b": "SGT-TSA-02119",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02116",
+      "record_b": "SGT-EWD-02120",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02117",
+      "record_b": "SGT-TNE-02118",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02117",
+      "record_b": "SGT-TSA-02119",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02117",
+      "record_b": "SGT-EWD-02120",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02118",
+      "record_b": "SGT-TSA-02119",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02118",
+      "record_b": "SGT-EWD-02120",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02119",
+      "record_b": "SGT-EWD-02120",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02121",
+      "record_b": "SGT-GSB-02122",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02121",
+      "record_b": "SGT-EWD-02123",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02121",
+      "record_b": "SGT-TSA-02124",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02122",
+      "record_b": "SGT-EWD-02123",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02122",
+      "record_b": "SGT-TSA-02124",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02123",
+      "record_b": "SGT-TSA-02124",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-EIF-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02125",
+      "record_b": "SGT-TSA-02126",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02125",
+      "record_b": "SGT-GSB-02127",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02125",
+      "record_b": "SGT-EWD-02128",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02126",
+      "record_b": "SGT-GSB-02127",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02126",
+      "record_b": "SGT-EWD-02128",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02127",
+      "record_b": "SGT-EWD-02128",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02129",
+      "record_b": "SGT-HCC-02130",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02129",
+      "record_b": "SGT-EWD-02131",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02129",
+      "record_b": "SGT-TSA-02132",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02129",
+      "record_b": "SGT-TNE-02133",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02130",
+      "record_b": "SGT-EWD-02131",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02130",
+      "record_b": "SGT-TSA-02132",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02130",
+      "record_b": "SGT-TNE-02133",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02131",
+      "record_b": "SGT-TSA-02132",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02131",
+      "record_b": "SGT-TNE-02133",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02132",
+      "record_b": "SGT-TNE-02133",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02134",
+      "record_b": "SGT-TNE-02135",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02134",
+      "record_b": "SGT-EWD-02136",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02134",
+      "record_b": "SGT-HCC-02137",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02134",
+      "record_b": "SGT-GSB-02138",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02135",
+      "record_b": "SGT-EWD-02136",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02135",
+      "record_b": "SGT-HCC-02137",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02135",
+      "record_b": "SGT-GSB-02138",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02136",
+      "record_b": "SGT-HCC-02137",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02136",
+      "record_b": "SGT-GSB-02138",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02137",
+      "record_b": "SGT-GSB-02138",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-STA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02139",
+      "record_b": "SGT-TSA-02140",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02139",
+      "record_b": "SGT-GSB-02141",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02140",
+      "record_b": "SGT-GSB-02141",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02142",
+      "record_b": "SGT-GSB-02143",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02142",
+      "record_b": "SGT-TSA-02144",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02142",
+      "record_b": "SGT-EWD-02145",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02142",
+      "record_b": "SGT-HCC-02146",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02143",
+      "record_b": "SGT-TSA-02144",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02143",
+      "record_b": "SGT-EWD-02145",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02143",
+      "record_b": "SGT-HCC-02146",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02144",
+      "record_b": "SGT-EWD-02145",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02144",
+      "record_b": "SGT-HCC-02146",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02145",
+      "record_b": "SGT-HCC-02146",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02147",
+      "record_b": "SGT-TSA-02148",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02147",
+      "record_b": "SGT-EWD-02149",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02147",
+      "record_b": "SGT-GSB-02150",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02148",
+      "record_b": "SGT-EWD-02149",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02148",
+      "record_b": "SGT-GSB-02150",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02149",
+      "record_b": "SGT-GSB-02150",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VAT-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02151",
+      "record_b": "SGT-TNE-02152",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02151",
+      "record_b": "SGT-TSA-02153",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02151",
+      "record_b": "SGT-EWD-02154",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02152",
+      "record_b": "SGT-TSA-02153",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02152",
+      "record_b": "SGT-EWD-02154",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02153",
+      "record_b": "SGT-EWD-02154",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02155",
+      "record_b": "SGT-HCC-02156",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02155",
+      "record_b": "SGT-TSA-02157",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02155",
+      "record_b": "SGT-TNE-02158",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02155",
+      "record_b": "SGT-GSB-02159",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02156",
+      "record_b": "SGT-TSA-02157",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02156",
+      "record_b": "SGT-TNE-02158",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02156",
+      "record_b": "SGT-GSB-02159",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02157",
+      "record_b": "SGT-TNE-02158",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02157",
+      "record_b": "SGT-GSB-02159",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02158",
+      "record_b": "SGT-GSB-02159",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02160",
+      "record_b": "SGT-HCC-02161",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02160",
+      "record_b": "SGT-EWD-02162",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02160",
+      "record_b": "SGT-GSB-02163",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02160",
+      "record_b": "SGT-TNE-02164",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02161",
+      "record_b": "SGT-EWD-02162",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02161",
+      "record_b": "SGT-GSB-02163",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02161",
+      "record_b": "SGT-TNE-02164",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02162",
+      "record_b": "SGT-GSB-02163",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02162",
+      "record_b": "SGT-TNE-02164",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02163",
+      "record_b": "SGT-TNE-02164",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-TOK-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02165",
+      "record_b": "SGT-TNE-02166",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02165",
+      "record_b": "SGT-HCC-02167",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02165",
+      "record_b": "SGT-TSA-02168",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02166",
+      "record_b": "SGT-HCC-02167",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02166",
+      "record_b": "SGT-TSA-02168",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02167",
+      "record_b": "SGT-TSA-02168",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02169",
+      "record_b": "SGT-TSA-02170",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02169",
+      "record_b": "SGT-TNE-02171",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02169",
+      "record_b": "SGT-EWD-02172",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02169",
+      "record_b": "SGT-GSB-02173",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02170",
+      "record_b": "SGT-TNE-02171",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02170",
+      "record_b": "SGT-EWD-02172",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02170",
+      "record_b": "SGT-GSB-02173",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02171",
+      "record_b": "SGT-EWD-02172",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02171",
+      "record_b": "SGT-GSB-02173",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02172",
+      "record_b": "SGT-GSB-02173",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02174",
+      "record_b": "SGT-TSA-02175",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02174",
+      "record_b": "SGT-TNE-02176",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02174",
+      "record_b": "SGT-EWD-02177",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02175",
+      "record_b": "SGT-TNE-02176",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02175",
+      "record_b": "SGT-EWD-02177",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02176",
+      "record_b": "SGT-EWD-02177",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-GRA-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02178",
+      "record_b": "SGT-TNE-02179",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02178",
+      "record_b": "SGT-GSB-02180",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02178",
+      "record_b": "SGT-EWD-02181",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02179",
+      "record_b": "SGT-GSB-02180",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02179",
+      "record_b": "SGT-EWD-02181",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02180",
+      "record_b": "SGT-EWD-02181",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02182",
+      "record_b": "SGT-EWD-02183",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02182",
+      "record_b": "SGT-TSA-02184",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02182",
+      "record_b": "SGT-TNE-02185",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02182",
+      "record_b": "SGT-HCC-02186",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02183",
+      "record_b": "SGT-TSA-02184",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02183",
+      "record_b": "SGT-TNE-02185",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02183",
+      "record_b": "SGT-HCC-02186",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02184",
+      "record_b": "SGT-TNE-02185",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02184",
+      "record_b": "SGT-HCC-02186",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02185",
+      "record_b": "SGT-HCC-02186",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02187",
+      "record_b": "SGT-HCC-02188",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02187",
+      "record_b": "SGT-TNE-02189",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02187",
+      "record_b": "SGT-GSB-02190",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02187",
+      "record_b": "SGT-EWD-02191",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02188",
+      "record_b": "SGT-TNE-02189",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02188",
+      "record_b": "SGT-GSB-02190",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02188",
+      "record_b": "SGT-EWD-02191",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02189",
+      "record_b": "SGT-GSB-02190",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02189",
+      "record_b": "SGT-EWD-02191",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02190",
+      "record_b": "SGT-EWD-02191",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-PAR-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02192",
+      "record_b": "SGT-EWD-02193",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02192",
+      "record_b": "SGT-HCC-02194",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02192",
+      "record_b": "SGT-GSB-02195",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02192",
+      "record_b": "SGT-TNE-02196",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02193",
+      "record_b": "SGT-HCC-02194",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02193",
+      "record_b": "SGT-GSB-02195",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02193",
+      "record_b": "SGT-TNE-02196",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02194",
+      "record_b": "SGT-GSB-02195",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02194",
+      "record_b": "SGT-TNE-02196",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02195",
+      "record_b": "SGT-TNE-02196",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02197",
+      "record_b": "SGT-TNE-02198",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02197",
+      "record_b": "SGT-GSB-02199",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02197",
+      "record_b": "SGT-EWD-02200",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02198",
+      "record_b": "SGT-GSB-02199",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02198",
+      "record_b": "SGT-EWD-02200",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02199",
+      "record_b": "SGT-EWD-02200",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02201",
+      "record_b": "SGT-TSA-02202",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02201",
+      "record_b": "SGT-GSB-02203",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02202",
+      "record_b": "SGT-GSB-02203",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-BLU-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02204",
+      "record_b": "SGT-GSB-02205",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02204",
+      "record_b": "SGT-TNE-02206",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02204",
+      "record_b": "SGT-HCC-02207",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02205",
+      "record_b": "SGT-TNE-02206",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02205",
+      "record_b": "SGT-HCC-02207",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02206",
+      "record_b": "SGT-HCC-02207",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02208",
+      "record_b": "SGT-TNE-02209",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02208",
+      "record_b": "SGT-TSA-02210",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02209",
+      "record_b": "SGT-TSA-02210",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02211",
+      "record_b": "SGT-GSB-02212",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02211",
+      "record_b": "SGT-EWD-02213",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02211",
+      "record_b": "SGT-TSA-02214",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02211",
+      "record_b": "SGT-HCC-02215",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02212",
+      "record_b": "SGT-EWD-02213",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02212",
+      "record_b": "SGT-TSA-02214",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02212",
+      "record_b": "SGT-HCC-02215",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02213",
+      "record_b": "SGT-TSA-02214",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02213",
+      "record_b": "SGT-HCC-02215",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02214",
+      "record_b": "SGT-HCC-02215",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-LON-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02216",
+      "record_b": "SGT-HCC-02217",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02216",
+      "record_b": "SGT-TNE-02218",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02216",
+      "record_b": "SGT-GSB-02219",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02217",
+      "record_b": "SGT-TNE-02218",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02217",
+      "record_b": "SGT-GSB-02219",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02218",
+      "record_b": "SGT-GSB-02219",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02220",
+      "record_b": "SGT-GSB-02221",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02220",
+      "record_b": "SGT-TNE-02222",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02221",
+      "record_b": "SGT-TNE-02222",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02223",
+      "record_b": "SGT-TNE-02224",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02223",
+      "record_b": "SGT-EWD-02225",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02223",
+      "record_b": "SGT-TSA-02226",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02224",
+      "record_b": "SGT-EWD-02225",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02224",
+      "record_b": "SGT-TSA-02226",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02225",
+      "record_b": "SGT-TSA-02226",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-RIJ-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02227",
+      "record_b": "SGT-TNE-02228",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02227",
+      "record_b": "SGT-EWD-02229",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02228",
+      "record_b": "SGT-EWD-02229",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02230",
+      "record_b": "SGT-HCC-02231",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02230",
+      "record_b": "SGT-TNE-02232",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02231",
+      "record_b": "SGT-TNE-02232",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02233",
+      "record_b": "SGT-EWD-02234",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02233",
+      "record_b": "SGT-HCC-02235",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02233",
+      "record_b": "SGT-TNE-02236",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02233",
+      "record_b": "SGT-TSA-02237",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02234",
+      "record_b": "SGT-HCC-02235",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02234",
+      "record_b": "SGT-TNE-02236",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02234",
+      "record_b": "SGT-TSA-02237",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02235",
+      "record_b": "SGT-TNE-02236",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02235",
+      "record_b": "SGT-TSA-02237",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02236",
+      "record_b": "SGT-TSA-02237",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-HAG-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02238",
+      "record_b": "SGT-TNE-02239",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02238",
+      "record_b": "SGT-TSA-02240",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02239",
+      "record_b": "SGT-TSA-02240",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02241",
+      "record_b": "SGT-GSB-02242",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02241",
+      "record_b": "SGT-HCC-02243",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02242",
+      "record_b": "SGT-HCC-02243",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02244",
+      "record_b": "SGT-EWD-02245",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02244",
+      "record_b": "SGT-GSB-02246",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02245",
+      "record_b": "SGT-GSB-02246",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-DUB-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02247",
+      "record_b": "SGT-EWD-02248",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02247",
+      "record_b": "SGT-GSB-02249",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02247",
+      "record_b": "SGT-TNE-02250",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02248",
+      "record_b": "SGT-GSB-02249",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02248",
+      "record_b": "SGT-TNE-02250",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02249",
+      "record_b": "SGT-TNE-02250",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02251",
+      "record_b": "SGT-HCC-02252",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02251",
+      "record_b": "SGT-GSB-02253",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02251",
+      "record_b": "SGT-TNE-02254",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02252",
+      "record_b": "SGT-GSB-02253",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02252",
+      "record_b": "SGT-TNE-02254",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02253",
+      "record_b": "SGT-TNE-02254",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02255",
+      "record_b": "SGT-EWD-02256",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02255",
+      "record_b": "SGT-GSB-02257",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02255",
+      "record_b": "SGT-TNE-02258",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02255",
+      "record_b": "SGT-TSA-02259",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02256",
+      "record_b": "SGT-GSB-02257",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02256",
+      "record_b": "SGT-TNE-02258",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02256",
+      "record_b": "SGT-TSA-02259",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02257",
+      "record_b": "SGT-TNE-02258",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02257",
+      "record_b": "SGT-TSA-02259",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02258",
+      "record_b": "SGT-TSA-02259",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-SIN-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02260",
+      "record_b": "SGT-GSB-02261",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02260",
+      "record_b": "SGT-TSA-02262",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02260",
+      "record_b": "SGT-EWD-02263",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02261",
+      "record_b": "SGT-TSA-02262",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02261",
+      "record_b": "SGT-EWD-02263",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02262",
+      "record_b": "SGT-EWD-02263",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02264",
+      "record_b": "SGT-TNE-02265",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02264",
+      "record_b": "SGT-HCC-02266",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02264",
+      "record_b": "SGT-TSA-02267",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02264",
+      "record_b": "SGT-GSB-02268",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02265",
+      "record_b": "SGT-HCC-02266",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02265",
+      "record_b": "SGT-TSA-02267",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02265",
+      "record_b": "SGT-GSB-02268",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02266",
+      "record_b": "SGT-TSA-02267",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02266",
+      "record_b": "SGT-GSB-02268",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02267",
+      "record_b": "SGT-GSB-02268",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02269",
+      "record_b": "SGT-GSB-02270",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02269",
+      "record_b": "SGT-TNE-02271",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02270",
+      "record_b": "SGT-TNE-02271",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-VER-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02272",
+      "record_b": "SGT-TNE-02273",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02272",
+      "record_b": "SGT-HCC-02274",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02272",
+      "record_b": "SGT-TSA-02275",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02272",
+      "record_b": "SGT-GSB-02276",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02273",
+      "record_b": "SGT-HCC-02274",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02273",
+      "record_b": "SGT-TSA-02275",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02273",
+      "record_b": "SGT-GSB-02276",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02274",
+      "record_b": "SGT-TSA-02275",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02274",
+      "record_b": "SGT-GSB-02276",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02275",
+      "record_b": "SGT-GSB-02276",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02277",
+      "record_b": "SGT-TSA-02278",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02277",
+      "record_b": "SGT-TNE-02279",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02277",
+      "record_b": "SGT-GSB-02280",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02278",
+      "record_b": "SGT-TNE-02279",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02278",
+      "record_b": "SGT-GSB-02280",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02279",
+      "record_b": "SGT-GSB-02280",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02281",
+      "record_b": "SGT-TNE-02282",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02281",
+      "record_b": "SGT-EWD-02283",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02281",
+      "record_b": "SGT-GSB-02284",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02282",
+      "record_b": "SGT-EWD-02283",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02282",
+      "record_b": "SGT-GSB-02284",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02283",
+      "record_b": "SGT-GSB-02284",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MET-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02285",
+      "record_b": "SGT-GSB-02286",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02285",
+      "record_b": "SGT-HCC-02287",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02286",
+      "record_b": "SGT-HCC-02287",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02288",
+      "record_b": "SGT-TNE-02289",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02288",
+      "record_b": "SGT-EWD-02290",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02288",
+      "record_b": "SGT-HCC-02291",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02288",
+      "record_b": "SGT-TSA-02292",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02289",
+      "record_b": "SGT-EWD-02290",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02289",
+      "record_b": "SGT-HCC-02291",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02289",
+      "record_b": "SGT-TSA-02292",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02290",
+      "record_b": "SGT-HCC-02291",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02290",
+      "record_b": "SGT-TSA-02292",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02291",
+      "record_b": "SGT-TSA-02292",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02293",
+      "record_b": "SGT-GSB-02294",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02293",
+      "record_b": "SGT-EWD-02295",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02294",
+      "record_b": "SGT-EWD-02295",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-MOU-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02296",
+      "record_b": "SGT-TSA-02297",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02296",
+      "record_b": "SGT-EWD-02298",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02296",
+      "record_b": "SGT-HCC-02299",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02296",
+      "record_b": "SGT-GSB-02300",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02297",
+      "record_b": "SGT-EWD-02298",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02297",
+      "record_b": "SGT-HCC-02299",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02297",
+      "record_b": "SGT-GSB-02300",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02298",
+      "record_b": "SGT-HCC-02299",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-EWD-02298",
+      "record_b": "SGT-GSB-02300",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02299",
+      "record_b": "SGT-GSB-02300",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-TICKET",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02301",
+      "record_b": "SGT-TNE-02302",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02301",
+      "record_b": "SGT-TSA-02303",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02301",
+      "record_b": "SGT-GSB-02304",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-HCC-02301",
+      "record_b": "SGT-EWD-02305",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02302",
+      "record_b": "SGT-TSA-02303",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02302",
+      "record_b": "SGT-GSB-02304",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02302",
+      "record_b": "SGT-EWD-02305",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02303",
+      "record_b": "SGT-GSB-02304",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02303",
+      "record_b": "SGT-EWD-02305",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-GSB-02304",
+      "record_b": "SGT-EWD-02305",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-VIP_TOUR",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02306",
+      "record_b": "SGT-TSA-02307",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TNE-02306",
+      "record_b": "SGT-HCC-02308",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    },
+    {
+      "record_a": "SGT-TSA-02307",
+      "record_b": "SGT-HCC-02308",
+      "is_match": true,
+      "canonical_id": "CAN-SGT-CAP-PRIVATE_COMBO",
+      "reason": "Equivalent sightseeing package and inclusion tier"
+    }
+  ]
+}
